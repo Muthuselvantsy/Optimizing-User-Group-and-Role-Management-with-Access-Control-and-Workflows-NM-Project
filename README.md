@@ -6,7 +6,7 @@
 
 **Team Size**   : 4
 
-**Team Leader** : Samuel Ponkanth P
+**Team Leader** : Samuvel Ponkanth P
 
 **Team member** : Fenolen sam jesuraj J
 
